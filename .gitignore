@@ -1,0 +1,43 @@
+gitignore
+# ========== Unity特定文件 ==========
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 内存捕获文件
+/[Mm]emoryCaptures/
+
+# 崩溃报告
+sysinfo.txt
+
+# ========== Unity Asset Store ==========
+/[Aa]ssets/AssetStoreTools*
+
+# ========== Visual Studio / Rider ==========
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ========== OS生成文件 ==========
+.DS_Store*
+._*
+Thumbs.db
+
+# ========== 自动生成的文件 ==========
+# 注意：Assets/下的.meta文件很重要，不要忽略！
